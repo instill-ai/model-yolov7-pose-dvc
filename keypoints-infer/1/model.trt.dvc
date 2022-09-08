@@ -1,0 +1,4 @@
+outs:
+- md5: 07e1f806feb48d08989be02f4753a7d5
+  size: 168571150
+  path: model.trt
