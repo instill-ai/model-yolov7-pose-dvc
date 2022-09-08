@@ -1,5 +1,5 @@
 name: "keypoints-infer"
-platform: "tensorrt"
+platform: "tensorrt_plan"
 max_batch_size: 8
 input: [
     {
